@@ -451,6 +451,11 @@ table.no-spacing td {
   }
 }
 
+div.b {
+    font-size: 20px;
+    font-family: "Helvetica Neue";
+}
+
 /*.leaflet-tile-container {*/
 /*    display: none;*/
 /*}*/
