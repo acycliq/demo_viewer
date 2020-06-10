@@ -454,6 +454,13 @@ table.no-spacing td {
 div.b {
     font-size: 20px;
     font-family: "Helvetica Neue";
+    color: #EDEEF5;
+}
+
+div.a {
+    /*font-size: 20px;*/
+    /*font-family: "Helvetica Neue";*/
+    color: #AACCFF;
 }
 
 /*.leaflet-tile-container {*/
