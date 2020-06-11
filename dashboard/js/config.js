@@ -23,3 +23,4 @@ function config() {
 // You padded the original image to make the longer side a multiple of 2000 whereas you just scaled it up to the correct dimension
 // when you did the pyramid tiles
 //
+
